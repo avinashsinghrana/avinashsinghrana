@@ -1,6 +1,6 @@
 # Hi 👋, I'm Avinash Rana
 
-### Full Stack Software Engineer | Java • Spring Boot • React
+### Lead Software Engineer | Java • Spring Boot • MicroService • Distributed System • System Design 
 
 I'm a software engineer passionate about building scalable, high-performance applications. My primary focus is backend engineering with Java and Spring Boot, while also enjoying building end-to-end full-stack solutions.
 
