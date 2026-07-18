@@ -7,7 +7,6 @@ I'm a software engineer passionate about building scalable, high-performance app
 ### 💻 Tech Stack
 
 * **Backend:** Java, Spring Boot, Spring Security, Hibernate, Microservices
-* **Frontend:** React, JavaScript, HTML, CSS
 * **Databases:** MySQL, PostgreSQL, Redis
 * **Messaging:** Apache Kafka
 * **Cloud & DevOps:** Docker, AWS, Git, Maven
@@ -30,7 +29,7 @@ Distributed Systems • System Design • Kubernetes • AI-powered Applications
 ---
 🛠️ Languages & Tools
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,postgres,redis,kafka,docker,aws,git,github,maven,hibernate,idea" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis,kafka,kubernates,oracle,gradle,docker,aws,git,github,maven,hibernate,idea" /> </p>
 
 ## 📊 GitHub Stats
 
