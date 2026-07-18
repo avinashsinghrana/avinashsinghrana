@@ -28,5 +28,18 @@ Distributed Systems • System Design • Kubernetes • AI-powered Applications
 * LinkedIn: https://www.linkedin.com/in/avinashsinghrana
 
 ---
+🛠️ Languages & Tools
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,postgres,redis,kafka,docker,aws,git,github,maven,hibernate,idea" /> </p>
+
+📊 GitHub Stats
+
+
+
+
+
+
+
+
 
 > *"Building scalable software with clean architecture and practical engineering."*
