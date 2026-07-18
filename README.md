@@ -32,7 +32,14 @@ Distributed Systems • System Design • Kubernetes • AI-powered Applications
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,postgres,redis,kafka,docker,aws,git,github,maven,hibernate,idea" /> </p>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avinashsinghrana\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashsinghrana\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=avinashsinghrana\&theme=tokyonight\&hide_border=true)
+
 
 
 
