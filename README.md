@@ -29,7 +29,7 @@ Distributed Systems • System Design • Kubernetes • AI-powered Applications
 ---
 🛠️ Languages & Tools
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis,kafka,kubernates,oracle,gradle,docker,aws,git,github,maven,hibernate,idea" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis,kafka,kubernetes,Oracle,Gradle,docker,aws,git,github,maven,hibernate,idea" /> </p>
 
 ## 📊 GitHub Stats
 
