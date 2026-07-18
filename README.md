@@ -25,7 +25,7 @@ Distributed Systems • System Design • Kubernetes • AI-powered Applications
 ### 📫 Connect with Me
 
 * GitHub: https://github.com/avinashsinghrana
-* LinkedIn: *(https://www.linkedin.com/in/avinashsinghrana/)*
+* LinkedIn: https://www.linkedin.com/in/avinashsinghrana
 
 ---
 
